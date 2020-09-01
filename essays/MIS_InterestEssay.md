@@ -5,4 +5,4 @@ title: Why I am Interested in MIS
 date: 2020-08-31
 ---
 
-I decided to major in MIS, because I think that this field is very useful and can give me skills and knowledge that will be valuable in the future. 
+Hello! My name is Philip Noh. While I am not necessarily interested in being able to code myself, I am interested in better understanding it and how it might apply to my career in the future. Overall, I think that skills and knowledge that this path offers, is very valuable and I am excited to learn a lot.
