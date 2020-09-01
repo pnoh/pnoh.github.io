@@ -1,122 +1,126 @@
 {
-  "basics": {
-    "name": "Philip Noh",
-    "label": "Shidler Undergraduate",
-    "picture": "https://pnoh.github.io/images/ITM_PortfolioPicCorrectSize.jpg",
-    "email": "pnoh@hawaii.edu",
-    "phone": "206-351-1341",
-    "website": "https://pnoh.github.io",
-    "summary": "I am studying in the Shidler College of Business at the University of Hawaii, for a B.B.A in Finance and Management Information Systems. I expect to graduate in Spring, 2023.",
-    "location": {
-      "address": "1341 Ala Aolani St.",
-      "postalCode": "96819",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Philip Noh",
+      "label":"Shidler Undergraduate",
+      "picture":"https://pnoh.github.io/images/ITM_PortfolioPicCorrectSize.jpg",
+      "email":"pnoh@hawaii.edu",
+      "phone":"206-351-1341",
+      "website":"https://pnoh.github.io",
+      "summary":"I am studying in the Shidler College of Business at the University of Hawaii, for a B.B.A in Finance and Management Information Systems. I expect to graduate in Spring, 2023.",
+      "location":{
+         "address":"1341 Ala Aolani St.",
+         "postalCode":"96819",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"pnoh",
+            "url":"http://github.com/pnoh"
+         },
+         {
+            "network":"linkedin",
+            "username":"Philip Noh",
+            "url":"http://linkedin.com/in/philipnoh"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "pnoh",
-        "url": "http://github.com/pnoh"
+         "name":"MIS",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "Philip Noh",
-        "url": "http://linkedin.com/in/philipnoh"
+         "name":"Finance",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Baking",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "MIS",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Finance",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Baking",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Microsoft Office"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Finance and MIS (expected Spring, 2023)",
-      "studyType": "B.B.A",
-      "startDate": "2019-08-26",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Waimanalo Feed Supply",
-      "position": "Internship",
-      "website": "",
-      "startDate": "2020-06-01",
-      "endDate": "2020-07-01",
-      "summary": "Helped implement new point of sales system during the internship",
-      "highlights": [
-        "Set-up, learn, and aid in the training of employees for the transition",
-        "Gained experience working behind a register and servicing customers"
-      ]
-    },
-    {
-      "company": "Kupu",
-      "position": "Hawaii Youth Conservation Corps Member",
-      "website": "",
-      "startDate": "2018-06-01",
-      "endDate": "2018-07-01",
-      "summary": "",
-      "highlights": [
-        "Collaborated with various environmental organizations to restore Native Hawaiian Lands",
-        "Worked together with team members to build fences, remove harmful entities, and plant native species"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Hui o ko`olaupoko",
-      "website": "",
-      "position": "Volunteer",
-      "startDate": "2015-09-01",
-      "endDate": "2015-09-01",
-      "summary": "Volunteered to build a rain garden",
-      "highlights": [
-        "Worked alongside other volunteers to build a rain garden, filled with native Hawaiian species",
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2019-Present",
-      "awarder": "Vance Roley, Dean of Shidler College of Business",
-      "summary": "Awarded to students who showed outstanding academic achievement in terms of GPA within a semester."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Toolsets/OS",
+         "level":"",
+         "keywords":[
+            "MacOS",
+            "Microsoft Office"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Finance and MIS (expected Spring, 2023)",
+         "studyType":"B.B.A",
+         "startDate":"2019-08-26",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Waimanalo Feed Supply",
+         "position":"Internship",
+         "website":"",
+         "startDate":"2020-06-01",
+         "endDate":"2020-07-01",
+         "summary":"Helped implement new point of sales system during the internship",
+         "highlights":[
+            "Set-up, learn, and aid in the training of employees for the transition",
+            "Gained experience working behind a register and servicing customers"
+         ]
+      },
+      {
+         "company":"Kupu",
+         "position":"Hawaii Youth Conservation Corps Member",
+         "website":"",
+         "startDate":"2018-06-01",
+         "endDate":"2018-07-01",
+         "summary":"",
+         "highlights":[
+            "Collaborated with various environmental organizations to restore Native Hawaiian Lands",
+            "Worked together with team members to build fences, remove harmful entities, and plant native species"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Hui o ko`olaupoko",
+         "website":"",
+         "position":"Volunteer",
+         "startDate":"2015-09-01",
+         "endDate":"2015-09-01",
+         "summary":"Volunteered to build a rain garden",
+         "highlights":[
+            "Worked alongside other volunteers to build a rain garden, filled with native Hawaiian species"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Dean's List",
+         "date":"2019-Present",
+         "awarder":"Vance Roley, Dean of Shidler College of Business",
+         "summary":"Awarded to students who showed outstanding academic achievement in terms of GPA within a semester."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
