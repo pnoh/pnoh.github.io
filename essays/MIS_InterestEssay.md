@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Why I am Interested in MIS
 date: 2020-08-26
 ---
 
