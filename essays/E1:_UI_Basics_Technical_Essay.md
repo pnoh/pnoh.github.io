@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: E1 UI Basics Technical Essay
-date: 2015-09-15
+date: 2020-09-15
 ---
 Doing these first few WODs, I was honestly at a loss for many of the steps and had to do a lot of google searching and breaking to go back to the basic guides provided in the readings and ended up watching the solution videos after a giving the WODs a few attempts. For all three of the Browser History WODs, I ended up giving them several attemps, up to 6 for the third one, in order to get my completion time, within the Rx-Av range. Doing so many attempts was helpful, because I could gradually see how my notation or code was flawed in comparison to the screencast or google searches, allowing me to make changes and add things in that I did not know and helped me see why my code did not work in many cases. 
 Across the board, my first few tries were past the DNF time or only slightly before it. I ended up trying so many times in order to feel confident that I had learned and practiced the skills associated with each WOD. For example, for BrowserHistory3, my first try was upwards of 30 minutes, when compared to my final run though, which was 8 minutes long, because at that point I had tried it myself, fixed my code, and practiced it enough to do it quickly. 
