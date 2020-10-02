@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: E3 Preparing for WODs Essay
-date: 2015-09-30
+date: 2015-10-1
 ---
 https://github.com/pnoh/ITM352_Fall20_repo/tree/master/WODs/Invoice1
 The link above, is the link to my Invoice1 WOD in my github, which has an invoice for a sales receipt. As I attempted to perform this WOD, I ran into lots of trouble on my first few tries. In this WOD, apart from big mistakes and things that I simply did not know how to do, I would often put the wrong letter or number in at some point or forget to put in a semi-colon at some point, leaving me to go back and try to figure out where I had gone wrong. The first few tries, I went over the DNF time because of those little mistakes, along side not knowing how to do some things on my own. 
